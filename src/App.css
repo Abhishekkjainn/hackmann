@@ -116,12 +116,12 @@ body{
   margin-right: 15px;
 }
 .joinhackathonbox{
-  background-image: url('grad1.png');
+  background-image: url('/grad1.png');
   background-position: center;
   background-size: cover;
 }
 .organisehackathonbox{
-  background-image: url('grad2.png');
+  background-image: url('/grad2.png');
   background-position: center;
   background-size: cover;
 }
